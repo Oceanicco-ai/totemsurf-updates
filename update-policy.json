@@ -1,9 +1,9 @@
 {
   "v": 1,
   "product": "totemsurf",
-  "issued": "2026-10-22T18:53:41Z",
+  "issued": "2026-10-22T19:54:54Z",
   "macos": {
-    "latest": "1.2.4",
+    "latest": "1.2.5",
     "minimum": "1.0.0"
   },
   "windows": {
