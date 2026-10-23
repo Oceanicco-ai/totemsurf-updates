@@ -1,13 +1,13 @@
 {
   "v": 1,
   "product": "totemsurf",
-  "issued": "2026-10-22T21:00:13Z",
+  "issued": "2026-10-23T11:05:23Z",
   "macos": {
     "latest": "1.2.6",
     "minimum": "1.0.0"
   },
   "windows": {
-    "latest": "1.2.3",
+    "latest": "1.2.6",
     "minimum": "1.0.0"
   },
   "graceDays": 3,
